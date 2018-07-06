@@ -1,0 +1,19 @@
+body {
+  padding: 0 5rem;
+}
+
+h1 {
+  margin-bottom: 50px;
+}
+
+p {
+  font-size: 24px;
+}
+#circ{
+  border: 3px solid blue;
+  padding: 1rem;
+
+}
+input{
+  margin: 3px;
+}

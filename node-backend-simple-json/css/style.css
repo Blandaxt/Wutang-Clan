@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+}
+.n1, .n2, .n3, .n4, .n5{
+  display: block;
+}
+button{
+  display: block;
+}
